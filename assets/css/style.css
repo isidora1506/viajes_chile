@@ -1,0 +1,94 @@
+body {
+    background-color: #000000;
+}
+
+.my-nav {
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    background: none;
+}
+
+.menu {
+    margin-right: 150px;
+}
+
+.navbar-brand {
+    margin-left: 100px;
+}
+
+.my-carousel {
+    top: 0;
+}
+
+.carousel-inner{
+    max-height: 700px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 -150px;
+}
+
+.col-md-4 {
+    width: 100%;
+}
+
+.display-5 {
+    color: #fff;
+    border-bottom: 1.5px solid #17a2b8;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+p {
+    text-align: left;
+}
+
+.quienes-somos {
+    padding-bottom: 60px;
+    width: 95%;
+}
+
+.card-row {
+    margin: 0;
+}
+
+.card {
+    background: #17a2b8;
+    box-sizing: border-box;
+}
+
+.destacados {
+    padding-bottom: 60px;
+    width: 95% !important;
+}
+
+.card h5, p {
+    text-align: left;
+}
+
+.fab {
+    margin: 0;
+    color: #fff !important;
+}
+
+.footer-cont {
+    width: 100% !important;
+    box-sizing: border-box;
+}
+
+.brandName {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.iconList {
+    margin: 0;
+}
+
+
+
